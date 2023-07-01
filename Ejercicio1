@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+  <!-- Este es mi primer comentario de dos líneas -->
+  <!-- Aprendiendo a documentar mi código con OpenBootcamp -->
+
+  <h1>Mis vídeos favoritos de YouTube</h1>
+  <ul>
+    <li><a href="enlace_al_primer_video">Título del primer vídeo HTML</a></li>
+    <li><a href="enlace_al_segundo_video">Título del segundo vídeo HTML</a></li>
+    <li><a href="enlace_al_tercer_video">Título del tercer vídeo HTML</a></li>
+  </ul>
+</body>
+</html>
